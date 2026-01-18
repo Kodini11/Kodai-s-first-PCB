@@ -19,6 +19,6 @@ This hackpad is meant to be used to help me animate in Blender. I created a hack
 - Top Case.stl
 - Bottom Case.stl
 
-![Schematic](Screenshot 2026-01-17 183025.png)
-![PCB](Screenshot 2026-01-17 183711.png)
-![Case](Screenshot 2026-01-17 183808.png)
+![Schematic](FIRMWARE/images/Screenshot 2026-01-17 183025.png)
+![PCB](FIRMWARE/images/Screenshot 2026-01-17 183711.png)
+![Case](FIRMWARE/images/Screenshot 2026-01-17 183808.png)
