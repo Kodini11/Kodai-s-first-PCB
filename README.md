@@ -1,5 +1,5 @@
 # Kodai's Thingy
-
+![Overall screenshot](FIRMWARE/images/Screenshot%202026-01-17%20185018.png)
 ## The Lore
 I'm a high school student just beginning to learn how to build stuff. I came across an Instagram reel talking about Hackclub and I was interested so I decided to attempt this project. I've never used Fusion 360 and KiCAD before so this was definitely a learning experience. In all honesty, I followed the tutorial 1:1 just because I wanted to avoid complexities since this is my first time. However, I am definitely willing to make stuff of my own in the future.
 
